@@ -1,0 +1,10 @@
+num1 = int(input("Enter a number : "))
+num2 = int(input("Enter another number : "))
+
+print("Sum of given numbers is", num1 + num2)
+print("Difference of given numbers is", num1 - num2)
+print("Product of given numbers is", num1 * num2)
+print("Division of given numbers is", num1 / num2)
+print("The floor division of given numbers is", num1 // num2)
+print("The modulus of given numbers is", num1 % num2)
+print("Exponentiation of given numbers is", num1 ** num2)
